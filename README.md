@@ -6,6 +6,7 @@ Includes one large level, a player that can jump, one enemy type, a score, healt
 
 ## References
 Character and enemy sprite from the [Platformer Art Deluxe] (https://kenney.nl/assets/platformer-art-deluxe) available at Kenney.nl.
+
 The terrain spritemap is from the [Abstract Platformer package](https://kenney.nl/assets/abstract-platformer) available at Kenney.nl.
 
 ## Future Development
