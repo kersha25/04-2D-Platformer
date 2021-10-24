@@ -1,4 +1,5 @@
 # 2D Platformer
+October 23, 2021
 A 2D platformer in which you play as a small pink alien collecting coins and (hopefully) avoiding enemies that explode upon impact. Made for MSCH-C220 Fall 2021.
 
 ## Implementation
